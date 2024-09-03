@@ -1211,6 +1211,7 @@
   // #define XY_DIAG_AC 279.6
   // #define XY_DIAG_BD 283.4
   // #define XY_SIDE_AD 199.2
+  // Used M852 I−0.022804 to set the value without reloading
   #define XY_DIAG_AC 279.6
   #define XY_DIAG_BD 282.8
   #define XY_SIDE_AD 198.75
